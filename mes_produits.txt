@@ -1,0 +1,4 @@
+Ordinateur,12
+Souris,5
+Clavier,3
+telephone,15
